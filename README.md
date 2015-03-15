@@ -1,8 +1,5 @@
-Writing the following in README.md
 
 >Note: You can't edit the app or try to sell it!
-
-violates both your license and my license.
 
 > ## 2.1. Grants
 > Each Contributor hereby grants You a world-wide, royalty-free, non-exclusive license:
